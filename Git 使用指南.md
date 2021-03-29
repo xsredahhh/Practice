@@ -6,4 +6,4 @@
 * `git commit -m "some explaination about the commit"`把文件提交到仓库
 * `git status` 查看系统状态，显示有没有修改，有没有待添加待提交的文件
 * `git diff`查看修改的具体内容， 修改了但还没有添加提交
-* 
+* 所有版本的提交修改都可以用 `git log`查看，会记录每次修改的时间，作者，以及版本号等，也可以`git log --pretty=oneline`只显示版本号和提交描述。
